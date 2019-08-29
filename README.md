@@ -2,7 +2,7 @@
 
 Custom theme for spicetify with Reddit extension
 
-This forked version has colors changed to match [Dainty's VSCode Material Paleknight](https://dainty.site/vscode "Dainty VSCode Themes") theme. Also the progress bar is moved back to the default place and no longer at the bottom.
+This forked version has colors changed to match [Dainty's VSCode Material Paleknight](https://dainty.site/vscode "Dainty VSCode Themes") theme. Also the progress bar is moved back to the default place and no longer at the bottom. There are some other minor visual changes that I've found are more pleasing ot the eye.
 
 <img src="https://i.imgur.com/QhtJXke.png" width="90%">
 
